@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1,p{
+    font-weight: bold;
+}
+
+#first{
+    color: #fcbe11;
+}
+
+#second{
+    color: green;
+}
+
+#third{
+    color: red;
+}
+
+#userInput{
+    padding: 7px 5px 5px 5px;
+    border-radius: 5px;
+    width: 50%;
+	border: none;
+}
+
+#submit{
+    background-color: rgba(128, 128, 128, 0.723);
+    border: none;
+	padding: 4px 15px;
+    font-size: larger;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+#submit:hover {
+    cursor: pointer;
+    background-image: linear-gradient(rgb(0 0 0/40%) 0 0);
+}
