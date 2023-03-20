@@ -1,2 +1,2 @@
 Simple todo list web app to save and manage work todos.
-![Screenshot (125)](https://user-images.githubusercontent.com/124234040/225893970-6a604d4b-bdf1-4ad9-baf9-03b22d21f4e7.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/124234040/226322574-4bb4d8eb-ff00-4bdc-a78d-fdfc29dd2c1f.png)
